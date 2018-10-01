@@ -1,5 +1,6 @@
 @chaset"UTF-8";
-body{ background-color: #cfe6e5 }
+body{ background-color: #cfe6e5;
+      background-image: url();}
 
 h1{ font-size: 1.75em; color: #5c6665; text-align:center; }
 h1 span{ color: #171a19; }
