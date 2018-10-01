@@ -1,13 +1,17 @@
+@chaset"UTF-8";
 body{ background-color: #cfe6e5 }
-h1{ font-size: 1.75em; color: #5c6665; }
-h2{ font-size: 1.25em; color: #b8ccca; }
 
-<!DOCTYPE html>
-<html lang="ja">
-<head>
- <meta charset="utf-8">
- <title>タイトル</title>
- <link rel="stylesheet" href="css/default.css" type="text/css">
-</head>
-<body>
-<body>
+h1{ font-size: 1.75em; color: #5c6665; text-align:center; }
+h1 span{ color: #171a19; }
+
+h2{ font-size: 1.25em; color: #b8ccca; 
+    border: #ffffff 2px dotted;
+    border-left:#ffffff 10px solid;
+    margin-bottom: 0;
+    padding: 5px 20px; }
+
+p{ font-size: 0.8em; }
+
+li{ font-size: 0.8em; }
+
+#aaa{ text-align: right; }
