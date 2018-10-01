@@ -2,10 +2,11 @@
 <html lang="ja">
 <head>
  <meta charset="utf-8">
- <title>タイトル</title>
+ <title>超初心者向け絵具講座</title>
  <link rel="stylesheet" href="css/default.css" type="text/css">
- <h1>はじめに</h1>
- <h2>概要</h2>
+ <h1>ここは絵を描いたことがあるけど絵具を使ったことが一度も無い人のためのサイトです。</h1>
+ <h1 span>
+ <h2></h2>
 </head>
 <body>
  <p>テスト</p>
