@@ -4,6 +4,8 @@
  <meta charset="utf-8">
  <title>タイトル</title>
  <link rel="stylesheet" href="css/default.css" type="text/css">
+ <h1>はじめに</h1>
+ <h2>概要</h2>
 </head>
 <body>
  <p>テスト</p>
