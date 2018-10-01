@@ -2,7 +2,7 @@
 <html>
  <head>
   <title>タイトル</title>
-  <style>
-  @import url("css/default.css");
+  <style type="text/css">
+   p{color:blue}
   </style>
  </head>
